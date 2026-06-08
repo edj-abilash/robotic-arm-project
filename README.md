@@ -237,5 +237,5 @@ MIT License — free to use, modify, and distribute.
 
 ## 🙋 Author
 
-Made by **Abilash**  
+Made by **Eddu John Abilash**  
 Arduino + Python robotic arm project
